@@ -6,6 +6,8 @@ Trong lĩnh vực phát triển phần mềm, **Pattern (Mẫu thiết kế)** l
 
 Pattern giúp tăng tính linh hoạt, khả năng tái sử dụng và bảo trì của phần mềm thông qua việc áp dụng các nguyên tắc thiết kế đã được kiểm chứng.  
 
+>Đơn giản hơn, **pattern** là các **kinh nghiệm**.
+
 ---
 
 ## 🏛 **Lịch Sử Ra Đời Của Pattern**  
@@ -108,10 +110,10 @@ Pattern đóng vai trò quan trọng trong việc cải thiện chất lượng 
 2. **Design Patterns in Java/C#:**  
    - Các tài liệu và khóa học dành riêng cho lập trình viên Java và C#.  
 
-3. **PlantUML:**  
+3. **Draw.io:**  
    - Công cụ trực quan hóa các mẫu thiết kế thông qua biểu đồ.  
 
-4. **StarUML:**  
+4. **Lucidchart:**  
    - Phần mềm vẽ biểu đồ UML giúp bạn áp dụng Pattern một cách trực quan.  
 
 ---

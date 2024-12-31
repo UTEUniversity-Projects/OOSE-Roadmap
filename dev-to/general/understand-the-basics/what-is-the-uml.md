@@ -1,6 +1,6 @@
 # Giới Thiệu Về UML (Unified Modeling Language)
 
-Unified Modeling Language (UML) là một ngôn ngữ mô hình hóa chuẩn được sử dụng rộng rãi trong lĩnh vực phát triển phần mềm và kỹ thuật hệ thống. UML giúp các nhóm phát triển mô hình hóa, trực quan hóa và tài liệu hóa các hệ thống phần mềm phức tạp một cách rõ ràng và hiệu quả.
+Unified Modeling Language (UML) là một ngôn ngữ mô hình hóa chuẩn được sử dụng rộng rãi trong lĩnh vực phát triển phần mềm và kỹ thuật hệ thống. UML giúp các nhóm phát triển mô hình hóa, trực quan hóa và tài liệu hóa các hệ thống phần mềm phức tạp một cách rõ ràng và hiệu quả, cung cấp một ngôn ngữ chung trong việc thiết kế phần mềm. Trong bối cảnh học phần, UML sẽ là công cụ mạnh mẽ để các bạn chuyển đổi bài toán từ thế giới thực vào thế giới máy tính thông qua các lược đồ, là tiếng nói cho những ý tưởng thiết kế của bạn.
 
 ---
 
@@ -63,20 +63,14 @@ UML bao gồm 14 loại biểu đồ, được chia thành hai nhóm chính: **B
 
 Có rất nhiều công cụ hỗ trợ vẽ UML từ cơ bản đến nâng cao, giúp bạn tạo các biểu đồ chuyên nghiệp:  
 
-1. **Draw.io (diagrams.net)**  
+1. **[Draw.io (diagrams.net)](https://app.diagrams.net/)**  
    - Miễn phí và dễ dùng, hỗ trợ vẽ các biểu đồ UML cơ bản. 
 
-2. **Lucidchart**  
+2. **[Lucidchart](https://www.lucidchart.com/pages/)**  
    - Công cụ trực tuyến với giao diện thân thiện, hỗ trợ cộng tác nhóm.  
 
-3. **StarUML**  
+3. **[StarUML](https://staruml.io/)**  
    - Phần mềm phổ biến, dễ sử dụng, phù hợp với các biểu đồ UML chuẩn. 
-
-4. **Microsoft Visio**  
-   - Phù hợp cho các tổ chức sử dụng bộ công cụ của Microsoft, cung cấp nhiều tính năng mạnh mẽ.  
-
-5. **Enterprise Architect**  
-   - Công cụ chuyên nghiệp dành cho mô hình hóa hệ thống và quản lý dự án.  
 
 ---
 
@@ -84,4 +78,4 @@ Có rất nhiều công cụ hỗ trợ vẽ UML từ cơ bản đến nâng cao
 
 UML là một công cụ không thể thiếu cho các kỹ sư phần mềm và nhà thiết kế hệ thống. Nó giúp các nhóm phát triển phần mềm giao tiếp hiệu quả, trực quan hóa ý tưởng và xây dựng các hệ thống phần mềm chất lượng cao.  
 
-Hãy bắt đầu học và thực hành UML bằng cách sử dụng các công cụ trên để mô hình hóa các hệ thống của bạn!  
+Hãy bắt đầu học và thực hành UML bằng cách sử dụng các công cụ trên để mô hình hóa bài toán của bạn!  
