@@ -12,7 +12,7 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
 - **Nội dung học:**
   - Quy trình thu thập yêu cầu từ khách hàng.
   - Phân loại yêu cầu: chức năng (Functional) và phi chức năng (Non-functional).
-  - Kỹ thuật đặc tả yêu cầu: sử dụng bảng mô tả, Use Case hoặc biểu đồ UML.
+  - Kỹ thuật đặc tả yêu cầu: sử dụng UML (Unified Modeling Language).
   - Viết tài liệu SRS (Software Requirement Specification) chuẩn hóa.
 - **Ứng dụng:** Đảm bảo đội ngũ phát triển hiểu đúng và đầy đủ về mong muốn của khách hàng.
 
@@ -22,8 +22,8 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
 
 - **Mục tiêu:** Nắm vững các quy trình phát triển phần mềm hiện đại và áp dụng hiệu quả trong dự án thực tế.
 - **Nội dung học:**
-  - Quy trình Waterfall: tuyến tính, phù hợp với dự án nhỏ và yêu cầu rõ ràng.
-  - Spiral: sự kết hợp giữa phát triển lặp và kiểm soát rủi ro.
+  - Waterfall Model: tuyến tính, phù hợp với dự án nhỏ và yêu cầu rõ ràng.
+  - Spiral Model: sự kết hợp giữa phát triển lặp và kiểm soát rủi ro.
   - Iterative, Incremental Frameworks: phát triển phần mềm theo từng phân đoạn nhỏ, dễ kiểm soát chất lượng.
 - **Ứng dụng:** Giúp lựa chọn quy trình phù hợp với đặc thù của từng dự án phần mềm.
 
@@ -36,7 +36,7 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
   - Các khái niệm cơ bản: Lớp (Class), Đối tượng (Object), Thuộc tính (Attributes) và Phương thức (Methods).
   - Đóng gói (Encapsulation), Kế thừa (Inheritance), Đa hình (Polymorphism) và Trừu tượng (Abstraction).
   - Sử dụng Interface và Abstract Classes để thiết kế hệ thống linh hoạt.
-- **Ứng dụng:** Xây dựng các ứng dụng có cấu trúc rõ ràng, dễ bảo trì.
+- **Ứng dụng:** Giúp việc thiết kế tuân thủ đúng tinh thần hướng đối tượng. Từ đó, giúp cho sản phẩm có cấu trúc rõ ràng, dễ bảo trì.
 
 ---
 
@@ -46,7 +46,7 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
 - **Nội dung học:**
   - Các thành phần chính: Actor, Use Case và mối quan hệ giữa chúng.
   - Phân tích chức năng hệ thống thông qua các Use Case.
-  - Công cụ hỗ trợ: Draw.io.
+  - Công cụ hỗ trợ: Draw.io, LucidChart.
 - **Ứng dụng:** Dễ dàng giao tiếp với khách hàng và đội ngũ phát triển về chức năng của hệ thống.
 
 ---
@@ -118,5 +118,5 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
 
 ## Kết Luận
 
-Roadmap này không chỉ giúp bạn nắm vững các khái niệm cốt lõi mà còn chuẩn bị đầy đủ kiến thức để bạn tự tin áp dụng trong công việc. Hãy từng bước khám phá và thực hành các chủ đề trên để đạt được kết quả tốt nhất.
+Roadmap này không chỉ giúp bạn nắm vững các khái niệm cốt lõi mà còn chuẩn bị đầy đủ kiến thức để bạn tự tin áp dụng trong việc phân tích và thiết kế đáp ứng nghiệp vụ bài toán. Hãy từng bước khám phá và thực hành các chủ đề trên để đạt được kết quả tốt nhất nhé.
 
