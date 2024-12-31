@@ -119,4 +119,3 @@ Dưới đây là lộ trình chi tiết các chủ đề trong học phần Cô
 ## Kết Luận
 
 Roadmap này không chỉ giúp bạn nắm vững các khái niệm cốt lõi mà còn chuẩn bị đầy đủ kiến thức để bạn tự tin áp dụng trong việc phân tích và thiết kế đáp ứng nghiệp vụ bài toán. Hãy từng bước khám phá và thực hành các chủ đề trên để đạt được kết quả tốt nhất nhé.
-
