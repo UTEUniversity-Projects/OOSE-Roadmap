@@ -4,6 +4,6 @@ Trong lĩnh vực phát triển phần mềm, **Pattern (Mẫu thiết kế)** l
 
 Pattern giúp tăng tính linh hoạt, khả năng tái sử dụng và bảo trì của phần mềm thông qua việc áp dụng các nguyên tắc thiết kế đã được kiểm chứng.  
 
->Xem bài viết chi tiết tại [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/le_hongphuc_eecc926242df/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-4e15)
+>Xem bài viết chi tiết tại [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-41i3)
 
 🌻 *SOEN Roadmap team*
