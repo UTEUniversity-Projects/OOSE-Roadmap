@@ -5,3 +5,6 @@ Unified Modeling Language (UML) là một ngôn ngữ mô hình hóa chuẩn đ�
 >Xem bài viết chi tiết tại [Giới Thiệu Về UML (Unified Modeling Language)](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-uml-unified-modeling-language-4gbb)
 
 🌻 *SOEN Roadmap team*
+
+---
+[Unified Modeling Language (UML) Diagrams](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/)
