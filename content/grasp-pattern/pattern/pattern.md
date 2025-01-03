@@ -7,3 +7,6 @@ Pattern giúp tăng tính linh hoạt, khả năng tái sử dụng và bảo tr
 >Xem bài viết chi tiết tại [Giới Thiệu Về Pattern Trong Phát Triển Phần Mềm](https://dev.to/hcmute_project_988df1c63c/gioi-thieu-ve-pattern-trong-phat-trien-phan-mem-41i3)
 
 🌻 *SOEN Roadmap team*
+
+---
+[Software Design Patterns Tutorial](https://www.geeksforgeeks.org/software-design-patterns/)
