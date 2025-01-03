@@ -77,5 +77,4 @@ Có rất nhiều công cụ hỗ trợ vẽ UML từ cơ bản đến nâng cao
 ## 🚀 **Kết Luận**
 
 UML là một công cụ không thể thiếu cho các kỹ sư phần mềm và nhà thiết kế hệ thống. Nó giúp các nhóm phát triển phần mềm giao tiếp hiệu quả, trực quan hóa ý tưởng và xây dựng các hệ thống phần mềm chất lượng cao.  
-
 Hãy bắt đầu học và thực hành UML bằng cách sử dụng các công cụ trên để mô hình hóa bài toán của bạn!  
