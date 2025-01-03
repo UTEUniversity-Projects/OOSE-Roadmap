@@ -8,3 +8,4 @@ SRS (Software Requirement Specification) là một tài liệu mô tả chi ti�
 
 ---
 [Software Requirement Specification (SRS) Format](https://www.geeksforgeeks.org/software-requirement-specification-srs-format/)
+[Guide to Writing a SRS Document](https://relevant.software/blog/software-requirements-specification-srs-document/)
