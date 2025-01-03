@@ -5,3 +5,7 @@ SRS (Software Requirement Specification) là một tài liệu mô tả chi ti�
 >Xem bài viết chi tiết tại [Tài Liệu Đặc Tả Yêu Cầu Phần Mềm (SRS) Là Gì?)](https://dev.to/hcmute_project_988df1c63c/tai-lieu-dac-ta-yeu-cau-phan-mem-srs-la-gi-48ig)
 
 🌻 *SOEN Roadmap team*
+
+---
+[Software Requirement Specification (SRS) Format](https://www.geeksforgeeks.org/software-requirement-specification-srs-format/)
+[Guide to Writing a SRS Document](https://relevant.software/blog/software-requirements-specification-srs-document/)
