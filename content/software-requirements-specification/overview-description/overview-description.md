@@ -1,4 +1,4 @@
-# Giới thiệu tổng quan
+# Mô tả tổng quan
 
 Nội dung này mang đến cái nhìn tổng quát về hệ thống, giúp các thành viên dễ dàng hiểu rõ mục tiêu, chức năng và ý nghĩa của sản phẩm trước khi bắt đầu phát triển.
 
