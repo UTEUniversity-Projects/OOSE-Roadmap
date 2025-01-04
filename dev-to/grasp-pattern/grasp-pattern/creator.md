@@ -1,23 +1,26 @@
-### Nguyên lý Creator là gì?
+### 1. Nguyên lý Creator là gì?
 
-- **Nguyên lý Creator** liên quan đến việc gán trách nhiệm tạo một instance của một lớp cho một lớp khác. Điều này giúp giải quyết vấn đề _Đối tượng này được tạo ra từ đâu?_
+- **Nguyên lý Creator** liên quan đến việc gán trách nhiệm tạo một instance của một lớp cho một lớp khác. Điều này giúp giải quyết vấn đề _Lớp nào sẽ chịu trách nhiệm tạo các instance của một đối tượng cụ thể?_
 
-- Nguyên tắc này quy định rằng một lớp nên chịu trách nhiệm tạo đối tượng của một lớp khác nếu một trong các điều kiện sau đây đúng: lớp đó chứa đối tượng cần tạo, lớp đó dùng nhiều đối tượng cần tạo, hoặc lớp đó có dữ liệu cần thiết để khởi tạo đối tượng.
+- Nguyên tắc này quy định rằng một lớp nên chịu trách nhiệm tạo đối tượng của một lớp khác nếu một trong các điều kiện sau đây đúng:
+
+  - A chứa đối tượng B.
+  - A sử dụng chặt chẽ các đối tượng B.
+  - A có dữ liệu khởi tạo sẽ được chuyển cho Đối tượng B.
 
 - **Ví dụ:**
-  - Trong hệ thống bán hàng, lớp `Sale` nên chịu trách nhiệm tạo đối tượng `SalesLineItem` vì Sale chứa các đối tượng `SalesLineItem`. Phương thức `makeLineItem(quantity)` sẽ được thêm vào lớp Sale để tạo các đối tượng `SalesLineItem`.
-  - Lớp `Diary` chứa một list các `Note`, vì vậy class `Diary` có thể chịu tráchnhiệm trong việc tạo ra các đối tượng Note mới bởi vì class `Diary` đã có sẵn những thông tin về `Note`, đảm bảo một đối tượng mới có thể được tạo ra và thêm vào.
+  - Quay lại ví dụ mua hàng ở bài viết [Nguyên Lý Expert Trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-expert-trong-grasp-pattern-292e). Giả sử một `PurchaseOrder` được tạo thì class nào chịu trách nhiệm để tạo ra các `OrderLine` ?
+  - Đáp án chắc chắn phải là `PurchaseOrder`. Vì sao ? Bởi vì một `PurchaseOrder` sẽ chứa các `OrderLine` thì có và chỉ có `PurchaseOrder` có trách nhiệm tạo ra các `OrderLine`.
 
-### Lợi ích
+### 2. Lợi ích của nguyên lý Creator
 
-- **Ứng dụng:**
-  - Hướng dẫn trong việc gán trách nhiệm tạo đối tượng.
-  - Giúp tìm ra lớp nào chịu trách nhiệm tạo đối tượng.
-- **Ưu điểm:**
-  - Nguyễn lý Creator hỗ trợ giảm coupling giữa các lớp.
-  - Ít phụ thuộc hơn và tính tái sử dụng cao hơn.
-  - Coupling không tăng lên vì lớp được tạo ra hiển thị với lớp Creator.
+- **Giảm Coupling giữa các lớp:** Giảm sự phụ thuộc giữa các lớp, tăng tính linh hoạt.
+- **Tăng tính rõ ràng và tổ chức trong mã nguồn:** Mã nguồn trực quan, trách nhiệm được phân bổ hợp lý.
+- **Hỗ trợ tái sử dụng mã:** Logic tạo đối tượng có thể được tái sử dụng ở nhiều nơi trong hệ thống.
+- **Tăng tính bảo trì và dễ mở rộng:** Dễ dàng thay đổi hoặc mở rộng cách khởi tạo đối tượng mà không ảnh hưởng đến các lớp khác.
+- **Phù hợp với nguyên lý SRP (Single Responsibility Principle):** Lớp Creator tập trung vào nhiệm vụ tạo đối tượng liên quan, giữ đúng trách nhiệm duy nhất.
+- **Dễ dàng kiểm thử (Testing):** Gom logic khởi tạo trong một lớp giúp kiểm thử riêng biệt và hiệu quả hơn.
 
-### Kết luận:
+### 3. Kết luận:
 
-- Nguyên lý Creator cung cấp một phương pháp hiệu quả để xác định và gán trách nhiệm tạo đối tượng trong thiết kế hướng đối tượng. Nó giúp duy trì coupling thấp và tối ưu hóa sự tái sử dụng của các lớp bằng cách xác định rõ ràng mối quan hệ và trách nhiệm của các lớp trong việc tạo ra đối tượng.
+- Nguyên lý Creator là một công cụ mạnh mẽ trong thiết kế phần mềm, giúp phân bổ trách nhiệm khởi tạo đối tượng một cách hợp lý. Việc áp dụng nguyên lý này không chỉ giảm sự phụ thuộc giữa các lớp mà còn tăng tính rõ ràng, tái sử dụng, và bảo trì mã nguồn. Đồng thời, nó hỗ trợ tuân thủ các nguyên lý thiết kế khác như **SRP**, giúp hệ thống trở nên dễ mở rộng và kiểm thử hơn. Đây là một nền tảng quan trọng để xây dựng phần mềm chất lượng cao, dễ quản lý và phát triển lâu dài.
