@@ -1,3 +1,5 @@
+![Banner](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gmqulausf7ge7amvcpt.jpg)
+
 # Introduction to Object Orientation (OO)
 
 Trong chương này, chúng ta sẽ tìm hiểu về **Object Orientation (OO)** và khám phá những lợi ích mà nó mang lại trong quá trình phát triển hệ thống phần mềm.
