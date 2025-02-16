@@ -10,4 +10,8 @@ Nội dung
 
 4. Mối quan hệ (Relationship)
 
-Link bài viết: [Các thành phần của Class Diagram](https://dev.to/hcmute_project_988df1c63c/cac-thanh-phan-cua-class-diagram-4638)
+> Xem bài viết chi tiết tại [Các thành phần của Class Diagram](https://dev.to/hcmute_project_988df1c63c/cac-thanh-phan-cua-class-diagram-4638)
+
+🌻 _SOEN Roadmap team_
+
+---
