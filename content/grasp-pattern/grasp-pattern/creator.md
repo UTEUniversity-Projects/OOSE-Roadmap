@@ -4,6 +4,8 @@ Nguyên lý này trả lời câu hỏi:
 
 "Lớp nào sẽ chịu trách nhiệm tạo các instance của một đối tượng cụ thể?"
 
-Xem bài viết chi tiết tại [Nguyên Lý Creator Trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-creator-trong-grasp-pattern-hdg)
+> Xem bài viết chi tiết tại [Nguyên Lý Creator Trong GRASP Pattern](https://dev.to/hcmute_project_988df1c63c/nguyen-ly-creator-trong-grasp-pattern-hdg)
 
-🌻 SOEN Roadmap team
+🌻 _SOEN Roadmap team_
+
+---
