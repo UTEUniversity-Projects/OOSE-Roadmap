@@ -1,4 +1,4 @@
-# SOEN-Roadmap
+# OOSE-Roadmap
 
 🌻 The Software Engineering roadmap is designed to help students take a more proactive approach to self-learning through each topic.
 
